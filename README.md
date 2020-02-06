@@ -2,6 +2,11 @@
 
 Authorize.Net Clojure - AuthNet-Clj - is a native Clojure client for the Authorize.Net JSON API. It aims to cover mostly the ARB, CIM, and Transactions end-points.
 
+|Version|1.0.1|
+|----|-----|
+|Docs|https://erniedeferia.github.io/authnet-clj/|
+|Source|https://github.com/erniedeferia/authnet-clj|
+
 
 ## Usage
 

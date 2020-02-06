@@ -26,11 +26,11 @@ Authorize.Net Clojure - AuthNet-Clj - is a native Clojure client for the Authori
 
 AuthNet-Clj expects the following Authorize.Net credentials as environment variables.
 
-
+```sh
 AUTHORIZENET_GATEWAY=sandbox
 AUTHORIZENET_LOGIN_ID
 AUTHORIZENET_TRANSATION_KEY
-
+```
 
 When `AUTHORIZENET_GATEWAY` is set to sandbox, `AutNet-Clj` will operate on the test (or sandbox)
 environment. A sandbox account can be created at the following location:
